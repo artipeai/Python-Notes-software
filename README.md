@@ -19,8 +19,8 @@ A simple command-line note-taking application built with Python.
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/notex-software.git
-cd notex-software
+git clone https://github.com/artipeai/Python-Notes-software.git
+cd Python-Notes-software
 ```
 
 2. Run the application:
